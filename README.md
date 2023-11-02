@@ -24,4 +24,6 @@ for others you have various tech stacks like for:
 <br>________________________________________________________________________________________________________________________________________________<br>
 **ANDROID DEVELOPMENT**
 <br>
-so basically if you want to become a android dev then there are are basically two to three languages and frameworks which all will lead you to the same destination, let us discuss them briefly
+so basically if you want to become a android dev then there are are basically two to three languages and frameworks which all will lead you to the same destination, let us discuss them briefly<br>
+**java** is one the most popular languages in the planet and is not in vain it can handle oyur web and android dev as well.<br>
+**java** with **android studio**
