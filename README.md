@@ -29,4 +29,5 @@ so basically if you want to become a android dev then there are are basically tw
 **java** with **android studio**
 **kotlin** with **android studio**
 **react native**
-to be continued...
+
+to be continued....
