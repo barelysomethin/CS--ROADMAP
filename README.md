@@ -60,4 +60,5 @@ if you have selected the language of your choice then you can get started:
 . Publishing and Distribution
 - Familiarize yourself with the process of publishing your app on the Google Play Store.
 
+**STARTING WEB-DEV WITH THE JAVASCRIPT**
 to be continued....
