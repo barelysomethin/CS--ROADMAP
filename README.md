@@ -61,4 +61,7 @@ if you have selected the language of your choice then you can get started:
 - Familiarize yourself with the process of publishing your app on the Google Play Store.
 
 **STARTING WEB-DEV WITH THE JAVASCRIPT**
+the first and probably the best resource that comes to my mind when someone talks <br>
+web-dev is the **ODIN PROJECT**
+
 to be continued....
