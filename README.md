@@ -60,8 +60,8 @@ if you have selected the language of your choice then you can get started:
 . Publishing and Distribution
 - Familiarize yourself with the process of publishing your app on the Google Play Store.
 
-**STARTING WEB-DEV WITH THE JAVASCRIPT**
-the first and probably the best resource that comes to my mind when someone talks <br>
-web-dev is the **ODIN PROJECT**
+**STARTING WEB-DEV WITH THE JAVASCRIPT** <br>
+the first and probably the best resource that comes to my mind when someone talks about the <br>
+web-dev is the **ODIN PROJECT** [here you go](https://www.theodinproject.com/paths/full-stack-javascript)
 
 to be continued....
