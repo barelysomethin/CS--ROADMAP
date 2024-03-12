@@ -30,4 +30,34 @@ so basically if you want to become a android dev then there are are basically tw
 **kotlin** with **android studio**
 **react native**
 
+**HOW TO START ANDROID DEV**
+if you have selected the language of your choice then you can get started:
+<br>
+. Android App Components
+- Gain knowledge of the different components that make up an Android app, such as activities, services, broadcast receivers, and content providers.
+- Understand how these components interact with each other to create a cohesive app experience.
+
+. User Interface (UI) Design
+- Learn about XML layout files and how to create visually appealing user interfaces.
+- Explore different UI design patterns and best practises for creating intuitive and user-friendly apps.
+
+. Data Storage and Management
+- Understand various data storage options available in Android, such as SharedPreferences, SQLite databases, and cloud-based solutions.
+- Learn how to efficiently manage and retrieve data from these storage options.
+
+. Networking and APIs
+- Explore how to integrate network requests and APIs into your app.
+- Learn about popular networking libraries like Retrofit and Volley to simplify the process of making HTTP requests.
+
+. Security and Permissions
+- Understand the importance of securing user data and implementing proper authentication mechanisms.
+- Learn how to handle app permissions and ensure user privacy.
+
+. Testing and Debugging
+- Gain knowledge of different testing methodologies, such as unit testing and UI testing.
+- Learn how to use debugging tools and techniques to identify and fix issues in your app.
+
+. Publishing and Distribution
+- Familiarize yourself with the process of publishing your app on the Google Play Store.
+
 to be continued....
