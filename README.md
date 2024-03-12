@@ -58,7 +58,8 @@ if you have selected the language of your choice then you can get started:
 - Learn how to use debugging tools and techniques to identify and fix issues in your app.
 
 . Publishing and Distribution
-- Familiarize yourself with the process of publishing your app on the Google Play Store.
+- Familiarize yourself with the process of publishing your app on the Google Play Store.<br>
+_________________________________________________________________________________________________________________________________________________________<br>
 
 **STARTING WEB-DEV WITH THE JAVASCRIPT** <br>
 the first and probably the best resource that comes to my mind when someone talks about the <br>
