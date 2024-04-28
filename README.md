@@ -15,7 +15,7 @@ they are basically made up of html,css and javascript and some libraries and frm
 **serverside**
 <br>
 those who are already proficient in javascript can go with nodejs which has fabulous framework of expressjs that can handle your CRUD operations.<br>
-for others you have various tech stacks like for:
+for others you have various tools like for:
 <br>
 **php** you have **laravel** <br>
 **python** you have **django** <br>
