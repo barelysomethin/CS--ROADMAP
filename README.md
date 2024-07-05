@@ -64,5 +64,6 @@ ________________________________________________________________________________
 **STARTING WEB-DEV WITH THE JAVASCRIPT** <br>
 the first and probably the best resource that comes to my mind when someone talks about the <br>
 web-dev is the **ODIN PROJECT** [here you go](https://www.theodinproject.com/paths/full-stack-javascript)
+there is also a nice youtube channel for this named (freecodecamp.org)
 
 to be continued....
